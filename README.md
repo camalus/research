@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bhil-adr-banner.png" alt="ADR Blueprint for AI-First Development" width="800"/>
+  <img src="https://github.com/camalus/research/blob/main/ArchitectureDesignRequirements.png" alt="ADR Blueprint for AI-First Development" width="800"/>
 </p>
 
 @ -1,118 +0,0 @@
