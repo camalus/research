@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/bhil-adr-banner.png" alt="ADR Blueprint for AI-First Development" width="800"/>
+</p>
+
 @ -1,118 +0,0 @@
 # ADR Blueprint for AI-First Development
 ### Part of the BHIL AI Architecture & Methodology Toolkit
